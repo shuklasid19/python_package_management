@@ -1,6 +1,6 @@
-# pip install virtualenv /* Install virtual environment */
-# virtualenv venv /* Create a virtual environment */
-# venv/Scripts/activate /* Activate the virtual environment */
+ pip install virtualenv /* Install virtual environment */
+ virtualenv venv /* Create a virtual environment */
+ venv/Scripts/activate /* Activate the virtual environment */
 
 
 # python packaging 
